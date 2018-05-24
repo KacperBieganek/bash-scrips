@@ -1,0 +1,4 @@
+dir2/dir1_ln czw, 12 kwi 2018, 10:16:30 CEST
+dir2/d_ln czw, 12 kwi 2018, 10:19:48 CEST
+dir2/e_ln czw, 12 kwi 2018, 10:19:48 CEST
+dir2/f_ln czw, 12 kwi 2018, 10:19:48 CEST
